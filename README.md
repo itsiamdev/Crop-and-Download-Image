@@ -14,7 +14,7 @@ A user-friendly web application for cropping and downloading images directly in 
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://iam269.github.io/Crop-and-Download-Image/](https://iam269.github.io/Crop-and-Download-Image/)
+Check out the live demo: [https://itsiamdev.github.io/Crop-and-Download-Image/](https://itsiamdev.github.io/Crop-and-Download-Image/)
 
 ## 🛠️ Technologies Used
 
